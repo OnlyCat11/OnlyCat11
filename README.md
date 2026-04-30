@@ -31,5 +31,5 @@
 
 <h2 align="center">🔥 Stats</h2>
 <p align="center">
-  <a href="https://github.com/OnlyCat11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyCat11&layout=donut&theme=dracula&hide_title=true&hide=batchfile,javascript" alt="Top Langs" /></a>
+  <a href="https://github.com/OnlyCat11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyCat11&layout=donut&theme=dracula&hide_title=true&hide=batchfile,javascript," alt="Top Langs" /></a>
 </p>
