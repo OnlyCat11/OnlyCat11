@@ -1,10 +1,6 @@
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/hyzxn/hyzxn/main/skills-badge.svg" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub_Flow-0c0c0c?style=for-the-badge&logo=github&logoColor=white" />
